@@ -18,8 +18,7 @@ Markdown is worth a look
  1. *emphasis* and **strong emphasis** are like this
 
 ## Freds Markdown 
-* I have enjoyed my skye holiday
-* I am a fan of dinos
+* I like dinosaurs
 ---
 
 
