@@ -16,3 +16,8 @@ Markdown is worth a look
  1. don't worry
  1. about numbered lists
  1. *emphasis* and **strong emphasis** are like this
+
+ Try this [markdown reference](https://markdowncheatsheet.com/reference) for details
+
+ ---
+
