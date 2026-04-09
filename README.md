@@ -17,6 +17,12 @@ Markdown is worth a look
  1. about numbered lists
  1. *emphasis* and **strong emphasis** are like this
 
+## Freds Markdown 
+* I have enjoyed my skye holiday
+* I am a fan of dinos
+---
+
+
  Try this [markdown reference](https://markdowncheatsheet.com/reference) for details
 
  ---
